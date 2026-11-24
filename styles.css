@@ -71,6 +71,12 @@ a:hover {
   letter-spacing: -0.02em;
 }
 
+.site-header nav {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
 .site-header nav a {
   font-size: 0.95rem;
   font-weight: 500;
